@@ -1,2 +1,2 @@
-# SENT-COVID_corpus
+# SENT-COVID
 The SENT-COVID Spanish corpus
