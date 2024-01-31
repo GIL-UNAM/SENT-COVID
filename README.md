@@ -64,3 +64,9 @@ The results obtained are
 
 Fleiss' Kappa statistic measure for the three annotators was: **0.5979**.
 
+## :neckbeard: Collaborators
+- Helena Gómez Adorno, Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas - UNAM
+
+## Aknowledgments
+The work was done with partial support of CONAHCYT project ------- and UNAM-PAPIIT projects -------.
+
