@@ -2,7 +2,7 @@
 The SENT-COVID Spanish 
 
 #  Corpus-SENT-COVID
-This repository contains information from the project to identify sentiments and emotions in tweets related to COVID-19. The Sentiments corpus and the Emotions corpus coincide in total number of tweets.
+This repository contains information from the project to identify sentiments and emotions in tweets related to COVID-19. The Polarity corpus and the Emotions corpus coincide in the total number of tweets.
 
 # Corpus General Information
 
@@ -64,16 +64,16 @@ The results obtained are
 
 Fleiss' Kappa statistic measure for the three annotators was: **0.5979**.
 
-## :pencil: How to cite
+# :pencil: How to cite
 
 If you use the corpus please cite the following articles:
 ------
 ------
 
-## :neckbeard: Collaborators
+# :neckbeard: Collaborators
 
 - Helena Gómez Adorno, Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas - UNAM
 
-## Aknowledgments
+# Aknowledgments
 The work was done with partial support of CONAHCYT project ------- and UNAM-PAPIIT projects -------.
 
