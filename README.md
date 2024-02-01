@@ -10,7 +10,7 @@ Initially there were a total of 4,986 tweets labeled as written in Spanish from 
 
 # :file_folder: General Information Labeling Corpus of Sentiments
 
-The Sentiments corpus (<em>Etiquetado_Final_Polarity.xml </em>) contains **4,800** tweets and the distribution by label is
+The Sentiments corpus (<em>Labeling_Polarity.csv </em>) contains **4,800** tweets and the distribution by label is
 
 | **Label** | **Number of Tweets** | **%** |
 | -- | -- | -- |
@@ -35,7 +35,7 @@ Fleiss' Kappa statistic measure for the three annotators was: **0.43697**.
 
 # :file_folder: General Information Labeling Corpus of Emotions
 
-The Emotions corpus (<em>Etiquetado_Final_Emociones.xml </em>) contains **4,800** tweets and the distribution by label is
+The Emotions corpus (<em>Labeling_Emotion.csv </em>) contains **4,800** tweets and the distribution by label is
 
 | **Label** | **Number of Tweets** | **%** |
 | -- | -- | -- 
@@ -63,6 +63,11 @@ The results obtained are
 | César & Paola | 0.6466 | Substantial |
 
 Fleiss' Kappa statistic measure for the three annotators was: **0.5979**.
+
+### :pencil: How to cite
+If you use the corpus please cite the following articles:
+------
+------
 
 ## :neckbeard: Collaborators
 - Helena Gómez Adorno, Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas - UNAM
