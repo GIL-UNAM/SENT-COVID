@@ -64,7 +64,8 @@ The results obtained are
 
 Fleiss' Kappa statistic measure for the three annotators was: **0.5979**.
 
-### :pencil: How to cite
+## :pencil: How to cite
+
 If you use the corpus please cite the following articles:
 ------
 ------
