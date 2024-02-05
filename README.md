@@ -32,7 +32,7 @@ Fleiss' Kappa statistic measure for the three annotators was: **0.43697**.
 
 # :file_folder: General Information Labeling Corpus of Emotions
 
-The Emotions corpus (<em>Labeling_Emotion.csv </em>) contains **4,800** tweets and the distribution by label is
+The Emotions corpus (<em>Labeling_Emotion.csv </em>) contains **4,799** tweets and the distribution by label is
 
 | **Label** | **Number of Tweets** | **%** |
 | -- | -- | -- 
