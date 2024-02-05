@@ -1,6 +1,3 @@
-# SENT-COVID
-The SENT-COVID Spanish 
-
 #  Corpus-SENT-COVID
 This repository contains information from the project to identify sentiments and emotions in tweets related to COVID-19. The Polarity corpus and the Emotions corpus coincide in the total number of tweets.
 
@@ -14,10 +11,10 @@ The Sentiments corpus (<em>Labeling_Polarity.csv </em>) contains **4,800** tweet
 
 | **Label** | **Number of Tweets** | **%** |
 | -- | -- | -- |
-| Neutral |   1,840   | 38% |
+| Neutral |   1,839   | 38% |
 | Negative |  1,834   | 38% |
 | Positive |  1,126   | 24% |
-| Total | 4,800 | 100% |
+| Total | 4,799 | 100% |
 
 ##  :mag_right: Inter-Annotator Agreement (IAA)
 
@@ -40,15 +37,15 @@ The Emotions corpus (<em>Labeling_Emotion.csv </em>) contains **4,800** tweets a
 | **Label** | **Number of Tweets** | **%** |
 | -- | -- | -- 
 | Trust |   763   | 16% |
-| Joy |  334   | 7% |
+| Joy |  344   | 7% |
 | Anticipation |  278   | 6% |
 | Disgust | 328 | 7% |
 | Anger | 878 | 18% |
 | Fear | 129 | 3% |
-| None | 836 | 17% |
+| None | 835 | 17% |
 | Surprise | 967 | 20% |
 | Sadness | 277 | 6% |
-| Total | 4,800| 100% |
+| Total | 4,799| 100% |
 
 ##  :mag_right: Inter-Annotator Agreement (IAA)
 
