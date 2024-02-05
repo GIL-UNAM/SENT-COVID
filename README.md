@@ -7,7 +7,7 @@ Initially there were a total of 4,986 tweets labeled as written in Spanish from 
 
 # :file_folder: General Information Labeling Corpus of Sentiments
 
-The Sentiments corpus (<em>Labeling_Polarity.csv </em>) contains **4,800** tweets and the distribution by label is
+The Sentiments corpus (<em>Labeling_Polarity.csv </em>) contains **4,799** tweets and the distribution by label is
 
 | **Label** | **Number of Tweets** | **%** |
 | -- | -- | -- |
