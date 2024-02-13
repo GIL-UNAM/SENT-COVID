@@ -1,9 +1,9 @@
 #  Corpus-SENT-COVID
-This repository contains information from the project to identify sentiments and emotions in tweets related to COVID-19. The Polarity and Emotions corpus coincide in the total number of tweets.
+This repository contains information from the project to identify sentiments and emotions in tweets related to COVID-19. The Polarity and Emotions corpora contain the same number of tweets.
 
 # Corpus General Information
 
-Initially, there were a total of 4,986 tweets from Mexico labeled as written in Spanish. Tweets in other languages were removed, reducing the corpus to 4,866 tweets. In addition, it was also agreed to eliminate tweets with less than three words because of the difficulty in identifying sentiments/emotions in such short tweets. Thus, the final corpus consists of 4,799 tweets.
+Initially, there were a total of 4,986 tweets from Mexico labeled as written in Spanish. Tweets in other languages were removed, reducing the corpus to 4,866 tweets. After removing the tweets with less than three words because of the difficulty in identifying sentiments/emotions in such short tweets, the final corpus consists of 4,799 tweets.
 
 # :file_folder: General Information Labeling Corpus of Sentiments
 
