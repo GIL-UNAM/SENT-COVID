@@ -68,6 +68,10 @@ If you use the corpus, please cite the following articles:
 # :neckbeard: Collaborators
 
 - Helena Gómez Adorno, Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas - UNAM
+- Gemma Bel Enguix, Instituto de Ingeniería - UNAM
+- Gerardo Sierra Martinez, Instituto de Ingeniería - UNAM
+- Juan Carlos Barajas, Facultad de Ciencias - UNAM
+- William Alvarez, UNAM
 
 # Aknowledgments
 The work was partially supported by CONAHCYT project CF-2023-G-64 and UNAM-PAPIIT projects TA101722, IN104424...
