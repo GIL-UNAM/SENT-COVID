@@ -1,9 +1,9 @@
 #  Corpus-SENT-COVID
-This repository contains information from the project to identify sentiments and emotions in tweets related to COVID-19. The Polarity corpus and the Emotions corpus coincide in the total number of tweets.
+This repository contains information from the project to identify sentiments and emotions in tweets related to COVID-19. The Polarity and Emotions corpus coincide in the total number of tweets.
 
 # Corpus General Information
 
-Initially there were a total of 4,986 tweets labeled as written in Spanish from Mexico. Tweets in other languages were removed, reducing the corpus to 4,866 tweets. In addition, it was also agreed to eliminate tweets with less than three words because of the difficulty in identifying sentiments/emotions in such short tweets. Thus, the final corpus consists of 4,799 tweets.
+Initially, there were a total of 4,986 tweets from Mexico labeled as written in Spanish. Tweets in other languages were removed, reducing the corpus to 4,866 tweets. In addition, it was also agreed to eliminate tweets with less than three words because of the difficulty in identifying sentiments/emotions in such short tweets. Thus, the final corpus consists of 4,799 tweets.
 
 # :file_folder: General Information Labeling Corpus of Sentiments
 
@@ -18,17 +18,17 @@ The Sentiments corpus (<em>Labeling_Polarity.csv </em>) contains **4,799** tweet
 
 ##  :mag_right: Inter-Annotator Agreement (IAA)
 
-To build the corpus, the agreement between three different annotators was calculated using the Cohen-Kappa statistic. 
+The agreement between the three annotators was calculated using the Cohen-Kappa statistic to build the corpus. 
 
 The results obtained are
 
 | **Annotator Pair** | **Cohen’s $\kappa$ score** | **Agreement** |
 | -- | -- | -- |
-| Elide & Mariana | 0.3945 | Moderate |
-| César & Mariana | 0.5547 | Acceptable |
-| César & Elide | 0.3716 | Moderate |
+| A1 & A2 | 0.3945 | Moderate |
+| A3 & A2 | 0.5547 | Acceptable |
+| A3 & A1 | 0.3716 | Moderate |
 
-Fleiss' Kappa statistic measure for the three annotators was: **0.43697**.
+Fleiss' Kappa statistic measure for the three annotators is **0.43697**.
 
 # :file_folder: General Information Labeling Corpus of Emotions
 
@@ -49,7 +49,7 @@ The Emotions corpus (<em>Labeling_Emotion.csv </em>) contains **4,799** tweets a
 
 ##  :mag_right: Inter-Annotator Agreement (IAA)
 
-To build the corpus, the agreement between three different annotators was calculated using the Cohen-Kappa statistic. 
+The agreement among the three annotators was calculated using the Cohen-Kappa statistic to build the corpus. 
 
 The results obtained are
 
@@ -59,16 +59,16 @@ The results obtained are
 | César & Adriana | 0.5294 | Acceptable |
 | César & Paola | 0.6466 | Substantial |
 
-Fleiss' Kappa statistic measure for the three annotators was: **0.5979**.
+Fleiss' Kappa statistic measure for the three annotators is **0.5979**.
 
 # :pencil: How to cite
 
-If you use the corpus please cite the following articles:
+If you use the corpus, please cite the following articles:
 
 # :neckbeard: Collaborators
 
 - Helena Gómez Adorno, Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas - UNAM
 
 # Aknowledgments
-The work was done with partial support of CONAHCYT project ------- and UNAM-PAPIIT projects -------.
+The work was partially supported by CONAHCYT project CF-2023-G-64 and UNAM-PAPIIT projects TA101722, IN104424...
 
