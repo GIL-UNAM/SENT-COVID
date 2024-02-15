@@ -1,5 +1,6 @@
 #  Corpus-SENT-COVID
 This repository contains information from the project to identify sentiments and emotions in tweets related to COVID-19. The Polarity and Emotions corpora contain the same number of tweets.
+We provide the tweets ID and the corresponding sentiment and emotion labels. This is require in the X/Twitter social media policies. For more information conctact us.
 
 # Corpus General Information
 
@@ -32,7 +33,7 @@ Fleiss' Kappa statistic measure for the three annotators is **0.43697**.
 
 # :file_folder: General Information Labeling Corpus of Emotions
 
-<!--
+
 The Emotions corpus (<em>Labeling_Emotion.csv </em>) contains **4,799** tweets and the distribution by label is
 
 | **Label** | **Number of Tweets** | **%** |
@@ -60,7 +61,7 @@ The results obtained are
 | César & Adriana | 0.5294 | Acceptable |
 | César & Paola | 0.6466 | Substantial |
 
-Fleiss' Kappa statistic measure for the three annotators is **0.5979**. -->
+Fleiss' Kappa statistic measure for the three annotators is **0.5979**. 
 
 # :pencil: How to cite
 
@@ -75,5 +76,5 @@ If you use the corpus, please cite the following articles:
 - William Alvarez, UNAM
 
 # Aknowledgments
-The work was partially supported by CONAHCYT project CF-2023-G-64 and UNAM-PAPIIT projects TA101722, IN104424...
+The work was partially supported by CONAHCYT project CF-2023-G-64 and UNAM-PAPIIT projects TA101722, IN104424.
 
