@@ -32,6 +32,7 @@ Fleiss' Kappa statistic measure for the three annotators is **0.43697**.
 
 # :file_folder: General Information Labeling Corpus of Emotions
 
+<!--
 The Emotions corpus (<em>Labeling_Emotion.csv </em>) contains **4,799** tweets and the distribution by label is
 
 | **Label** | **Number of Tweets** | **%** |
@@ -59,7 +60,7 @@ The results obtained are
 | César & Adriana | 0.5294 | Acceptable |
 | César & Paola | 0.6466 | Substantial |
 
-Fleiss' Kappa statistic measure for the three annotators is **0.5979**.
+Fleiss' Kappa statistic measure for the three annotators is **0.5979**. -->
 
 # :pencil: How to cite
 
