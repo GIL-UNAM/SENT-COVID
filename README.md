@@ -1,6 +1,6 @@
 #  Corpus-SENT-COVID
 This repository contains information from the project to identify sentiments and emotions in tweets related to COVID-19. The Polarity and Emotions corpora contain the same number of tweets.
-We provide the tweets ID and the corresponding sentiment and emotion labels. This is require in the X/Twitter social media policies. For more information conctact us.
+We provide just the ID of the tweets (this is require in the X/Twitter social media policies. For more information about the tweets contact us) and the corresponding sentiment and emotion labels. 
 
 # Corpus General Information
 
