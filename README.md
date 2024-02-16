@@ -74,6 +74,7 @@ If you use the corpus, please cite the following articles:
 - Gerardo Sierra Martinez, Instituto de Ingeniería - UNAM
 - Juan Carlos Barajas, Facultad de Ciencias - UNAM
 - William Alvarez, UNAM
+- Gabriel Castillo, Facultad de Ingeniería - UNAM
 
 # Aknowledgments
 The work was partially supported by CONAHCYT project CF-2023-G-64 and UNAM-PAPIIT projects TA101722, IN104424.
